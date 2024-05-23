@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Gabriel Melo from Brazil<br><br>- 🔭 I’m working as freelance<br>- 📚 I'm currently learning Java</p>
+<p align="left">I'm Gabriel Melo from Brazil<br><br>- 🔭 I’m working as freelancer<br>- 📚 I'm currently learning Java</p>
 
 ###
 
