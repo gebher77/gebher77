@@ -56,9 +56,3 @@
 <img src="https://raw.githubusercontent.com/gebher77/gebher77/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="?theme=white&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
-</div>
-
-###
